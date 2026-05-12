@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bermúdez;Fausto;;;
+FN:Fausto Bermúdez
+ORG:Ranching 4 Profit
+TITLE:CEO
+TEL;TYPE=CELL,VOICE:+526562858147
+EMAIL;TYPE=WORK,INTERNET:fausto@ranching4profitmx.com
+URL:https://ranching4profitmx.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/faustobermudez/
+URL;TYPE=Instagram:https://www.instagram.com/faustobermudez/
+URL;TYPE=TikTok:https://www.tiktok.com/@fausto.bermudez95
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/faustobermudez/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/faustobermudez/
+X-SOCIALPROFILE;TYPE=tiktok:https://www.tiktok.com/@fausto.bermudez95
+END:VCARD
